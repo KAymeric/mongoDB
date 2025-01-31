@@ -9,6 +9,7 @@
 ## Utilisation
 
 - Lancez le fichier main.py (cela créra automatiquement la bas de donnée)
+- insérer le fichier taxis.json dans votre collection taxis de la base Aymeric_Kreuzert
 - Lancez le fichier stub_auto_reconnect.py pour envoyer des données sur mqtt
 - Lancez mqtt.py pour récupérer les données sur mqqt
 - vous pourrez stopper les fichiers stub_auto_reconnect.py et mqtt.py une fois que vous aurez assez de données
